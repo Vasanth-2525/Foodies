@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "category": "Burger",
+    "price": 299,
+    "img": "/src/assets/food/p1.jpeg",
+    "rating": 4,
+    "reviews": [
+      {
+        "user": "Amit Singh",
+        "rating": 4,
+        "comment": "Juicy and flavorful! Loved the soft bun.",
+        "avatar": "/src/assets/food/p1.jpeg"
+      },
+      {
+        "user": "Sneha Verma",
+        "rating": 5,
+        "comment": "Absolutely delicious, one of my favorites!",
+        "avatar": "/src/assets/food/02.jpg"
+      },
+      {
+        "user": "Rohit Mehra",
+        "rating": 3,
+        "comment": "Good taste, but a bit too greasy for me.",
+        "avatar": "/src/assets/food/03.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Ice Cream",
+    "category": "Burger",
+    "price": 199,
+    "img": "/src/assets/food/p2.jpeg",
+    "rating": 5,
+    "reviews": [
+      {
+        "user": "Priya Sharma",
+        "rating": 5,
+        "comment": "Best chocolate ice cream ever!",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Raj Patel",
+        "rating": 4,
+        "comment": "So rich and creamy, I loved it.",
+        "avatar": "/src/assets/food/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Margherita Pizza",
+    "category": "Dessert",
+    "price": 399,
+    "img": "/src/assets/food/p3.jpeg",
+    "rating": 3,
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3,
+        "comment": "Decent taste, but could use more cheese.",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Vikram Joshi",
+        "rating": 4,
+        "comment": "Crust was crispy and toppings were fresh.",
+        "avatar": "/src/assets/food/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Spaghetti Carbonara",
+    "category": "Dessert",
+    "price": 349,
+    "img": "/src/assets/food/p4.jpeg",
+    "rating": 4,
+    "reviews": [
+      {
+        "user": "Neha Kulkarni",
+        "rating": 4,
+        "comment": "Very creamy and filling. Loved the bacon!",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Arjun Desai",
+        "rating": 5,
+        "comment": "Authentic flavor, would order again.",
+        "avatar": "/src/assets/food/03.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sushi Platter",
+    "category": "Pasta",
+   
+   
+    "price": 499,
+    "img": "/src/assets/food/p5.jpeg",
+    "rating": 5,
+    "reviews": [
+      {
+        "user": "Isha Malhotra",
+        "rating": 5,
+        "comment": "Fresh and beautifully presented sushi!",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Karan Bhatia",
+        "rating": 5,
+        "comment": "A complete treat for sushi lovers.",
+        "avatar": "/src/assets/food/02.jpg"
+      },
+      {
+        "user": "Rhea D'Souza",
+        "rating": 4,
+        "comment": "Tasted great, just a bit pricey.",
+        "avatar": "/src/assets/food/03.jpg1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Double Cheeseburger",
+     "category": "Pasta",
+    "price": 299,
+    "img": "/src/assets/food/p1.jpeg",
+    "rating": 4,
+    "reviews": [
+      {
+        "user": "Amit Singh",
+        "rating": 4,
+        "comment": "Juicy and flavorful! Loved the soft bun.",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Sneha Verma",
+        "rating": 5,
+        "comment": "Absolutely delicious, one of my favorites!",
+        "avatar": "/src/assets/food/03.jpg"
+      },
+      {
+        "user": "Rohit Mehra",
+        "rating": 3,
+        "comment": "Good taste, but a bit too greasy for me.",
+        "avatar": "/src/assets/food/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Belgian Chocolate Ice Cream",
+     "category": "Pizza",
+    "price": 199,
+    "img": "/src/assets/food/p2.jpeg",
+    "rating": 5,
+    "reviews": [
+      {
+        "user": "Priya Sharma",
+        "rating": 5,
+        "comment": "Best chocolate ice cream ever!",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Raj Patel",
+        "rating": 4,
+        "comment": "So rich and creamy, I loved it.",
+        "avatar": "/src/assets/food/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Classic Margherita Pizza",
+    "category": "Pizza",
+    "price": 399,
+    "img": "/src/assets/food/p3.jpeg",
+    "rating": 3,
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3,
+        "comment": "Decent taste, but could use more cheese.",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Vikram Joshi",
+        "rating": 4,
+        "comment": "Crust was crispy and toppings were fresh.",
+        "avatar": "/src/assets/food/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Bacon Spaghetti Carbonara",
+     "category": "Sushi",
+    "price": 349,
+    "img": "/src/assets/food/p4.jpeg",
+    "rating": 4,
+    "reviews": [
+      {
+        "user": "Neha Kulkarni",
+        "rating": 4,
+        "comment": "Very creamy and filling. Loved the bacon!",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Arjun Desai",
+        "rating": 5,
+        "comment": "Authentic flavor, would order again.",
+        "avatar": "/src/assets/food/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Deluxe Sushi Platter",
+    "category": "Sushi",
+    "price": 499,
+    "img": "/src/assets/food/p5.jpeg",
+    "rating": 5,
+    "reviews": [
+      {
+        "user": "Isha Malhotra",
+        "rating": 5,
+        "comment": "Fresh and beautifully presented sushi!",
+        "avatar": "/src/assets/food/01.jpg"
+      },
+      {
+        "user": "Karan Bhatia",
+        "rating": 5,
+        "comment": "A complete treat for sushi lovers.",
+        "avatar": "/src/assets/food/02.jpg"
+      },
+      {
+        "user": "Rhea D'Souza",
+        "rating": 4,
+        "comment": "Tasted great, just a bit pricey.",
+        "avatar": "/src/assets/food/03.jpg"
+      }
+    ]
+  }
+]
